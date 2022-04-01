@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitdas10&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitdas10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@biswaji41483759" target="blank"><img src="https://img.shields.io/twitter/follow/@biswaji41483759?logo=twitter&style=for-the-badge" alt="@biswaji41483759" /></a> </p>
+<p align="left"> <a href="https://twitter.com/biswaji41483759" target="blank"><img src="https://img.shields.io/twitter/follow/biswaji41483759?logo=twitter&style=for-the-badge" alt="biswaji41483759" /></a> </p>
 
 - 🌱 I’m currently learning **Core Java**
 
@@ -16,7 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@biswaji41483759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@biswaji41483759" height="30" width="40" /></a>
+<a href="https://twitter.com/biswaji41483759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswaji41483759" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/biswajit-das-7275001b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajit-das-7275001b0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/17045960/biswajit-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17045960/biswajit-das" height="30" width="40" /></a>
+<a href="https://instagram.com/biswajit_das_8249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswajit_das_8249" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@bdas_bls123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bdas_bls123" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bdasbls123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bdasbls123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
