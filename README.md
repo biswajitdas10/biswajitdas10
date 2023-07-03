@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/biswaji41483759" target="blank"><img src="https://img.shields.io/twitter/follow/biswaji41483759?logo=twitter&style=for-the-badge" alt="biswaji41483759" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **Testing**
 
-- 💬 Ask me about **Core Java**
+- 💬 Ask me about **Automation Testing**
 
 - 📫 How to reach me **bdas.bls123@gmail.com**
 
-- ⚡ Fun fact **I am a full of Joy**
+- ⚡ Fun fact **I am full of Joy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
